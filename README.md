@@ -12,7 +12,8 @@ Here you can find my projects and some old things that I created to study in hom
 
 ..... I'll update this introduction soon to include some projects ...
 
+##### Where else you find me:
 ---
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauriciogeneroso)](https://github.com/mauriciogeneroso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauriciogeneroso/)](https://www.linkedin.com/in/mauriciogeneroso/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@mauriciogeneroso)](https://medium.com/@mauriciogeneroso)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauriciomarquesgeneroso@gmail.com)](mailto:mauriciomarquesgeneroso@gmail.com)
