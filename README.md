@@ -10,7 +10,7 @@ Here you can find my projects and some old things that I created to study in hom
 * :computer: Sometimes I write on Medium blog and I'm passionated by technologies.
 * :guardsman::european_castle::uk: Currently living in London - UK.
 
-..... I'll update this apresentation soon to include some projects ...
+..... I'll update this introduction soon to include some projects ...
 
 ---
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mauriciogeneroso)](https://github.com/mauriciogeneroso)
