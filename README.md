@@ -12,7 +12,7 @@ Here you can find my projects and some old things that I created to study in hom
 
 ..... I'll update this introduction soon to include some projects ...
 
-##### Where else you find me:
+### Where else you find me:
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauriciogeneroso/)](https://www.linkedin.com/in/mauriciogeneroso/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@mauriciogeneroso)](https://medium.com/@mauriciogeneroso)
