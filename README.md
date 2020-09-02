@@ -8,6 +8,7 @@ Here you can find my projects and things that I created to study in home and for
 * :mortar_board: Undergraduated in Computer science (in Brazil 🇧🇷).
 * :coffee: Java certified by Oracle.
 * :computer: Sometimes I write on Medium blog and I'm passionated by technologies.
+* :baby: I was born in brazil 🇧🇷 and descended from italian 🇮🇹.
 * :guardsman::european_castle::uk: Currently living in London - UK.
 
 ..... I'll update this introduction soon to include some projects ...
