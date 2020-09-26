@@ -11,8 +11,6 @@ Here you can find my projects and things that I created to study in home and for
 * :baby: I was born in brazil 🇧🇷 and descended from italian 🇮🇹.
 * :guardsman::european_castle::uk: Currently living in London - UK.
 
-..... I'll update this introduction soon to include some projects ...
-
 ### Where else you find me:
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauriciogeneroso/)](https://www.linkedin.com/in/mauriciogeneroso/)
