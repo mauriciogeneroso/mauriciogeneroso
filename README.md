@@ -1,4 +1,4 @@
-# Hi there, Mauricio Generoso here! :raising_hand:
+# Hi there, Mauricio Generoso here! :runner:
 
 Welcome to my github!
 
