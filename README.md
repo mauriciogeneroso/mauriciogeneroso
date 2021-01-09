@@ -11,6 +11,18 @@ Here you can find my projects and things that I created to study in home and for
 * :baby: I was born in brazil 🇧🇷 and descended from italian 🇮🇹.
 * :guardsman::european_castle::uk: Currently living in London - UK.
 
+### Recent Acitivies
+---
+<center>
+<table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogeneroso&hide=html&langs_count=6&layout=compact&theme=dracula" /></td>
+      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=mauriciogeneroso&count_private=true&show_icons=true&theme=dracula" /></td>
+  </tr>  
+</table>
+</center>
+
+
 ### Where else you find me:
 ---
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mauriciogeneroso/)](https://www.linkedin.com/in/mauriciogeneroso/)
