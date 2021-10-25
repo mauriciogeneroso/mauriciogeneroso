@@ -4,7 +4,7 @@ Welcome to my github!
 
 Here you can find some repositories created to study at home improve my programming skills, and old projects used in my undergraduation degree.
 
-* :man_technologist: I'm a Software Engineer, current working at Sky in the Global Video Plaform.
+* :man_technologist: I'm a Software Engineer, current working at [Sky](https://www.sky.com/) in the Global Video Plaform.
 * :mortar_board: Undergraduated in Computer science (in Brazil).
 * :coffee: Java certified by Oracle, versions 8 and 11.
 * :computer: Sometimes I write on Medium blog and I'm passionated by technologies.
