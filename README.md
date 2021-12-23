@@ -2,11 +2,11 @@
 
 Welcome to my github!
 
-Here you can find some repositories created to study at home improve my programming skills, and old projects used in my undergraduation degree.
+Here you can find some repositories created to study at home to improve my programming skills, and old projects used in my graduation.
 
-* :man_technologist: I'm a Software Engineer, current working at [Sky](https://www.sky.com/) in the Global Video Plaform.
-* :mortar_board: Undergraduated in Computer science (in Brazil).
-* :coffee: Java certified by Oracle, versions 8 and 11.
+* :man_technologist: I'm a Software Engineer, current working at [Sky](https://www.sky.com/) on Global Video Plaform.
+* :mortar_board: Graduated in Computer science (in Brazil).
+* :coffee: Java certified by Oracle: [Java 8](https://www.credly.com/badges/7bb68779-1eb7-4ec1-bdbd-e77263fe67df/public_url) and [Java 11](https://www.credly.com/badges/bc1ecc91-f432-4536-8b3c-45e699fda351). 
 * :computer: Sometimes I write on Medium blog and I'm passionated by technologies.
 * :guardsman::european_castle::uk: Currently living in London - UK.
 
