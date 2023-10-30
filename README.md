@@ -15,7 +15,7 @@ Here you can find some repositories created to study at home to improve my progr
 <center>
 <table>
   <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciogeneroso&hide=html&langs_count=6&layout=compact&theme=dracula" /></td>
+      <td><img align="center" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=mauriciogeneroso&langs_count=6&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER" /></td>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=mauriciogeneroso&count_private=true&show_icons=true&theme=dracula" /></td>
   </tr>  
 </table>
